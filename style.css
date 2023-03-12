@@ -51,10 +51,18 @@ body {
     border-radius: 10px 0 0 10px;
 }
 
+.logo {
+    margin-bottom: 26px;
+}
+
+.motto {
+    margin: 0;
+}
+
 .bota {
     position: absolute;
     left: -80px;
-    bottom: 5px;
+    bottom: 11px;
 }
 
 .porizeni-info {
@@ -84,7 +92,7 @@ body {
 }
 
 .prava-cast__text {
-    padding-bottom: 32px;
+    padding-bottom: 30px;
     border-bottom: 2px solid #06d7c1;
 }
 
@@ -104,7 +112,11 @@ body {
     font-size: 14px;
     text-transform: uppercase;
     margin: 0 0;
-    padding-top: 32px;
+    padding-top: 30px;
+}
+
+.vlastnosti {
+    margin-top: 30px;
 }
 
 .prava-cast p {
@@ -138,7 +150,7 @@ body {
     display: inline-block;
     text-decoration: none;
     text-transform: uppercase;
-    padding: 18px 30px;
+    padding: 15px 34px;
     color: #ffffff;
     background-color: #f05f42;
     border-radius: 8px;
